@@ -20,4 +20,26 @@ blocks:
   width: 800
   x: 1450
   y: 200
-edges: []
+- auto_size: false
+  canvas_id: 346b0bdd-d168-46ee-b679-3ef5148d8848
+  compute_settings:
+    compute_environment_type: 1
+  description: ''
+  height: 500
+  id: 84df6f51-dfbc-46c2-9773-caa01f197f8a
+  layer_id: 1bd32015-7747-4f69-bc69-c0d73f52216f
+  name: '2'
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: 2600
+  y: 150
+edges:
+- canvas_id: 346b0bdd-d168-46ee-b679-3ef5148d8848
+  id: 2068b632-1d7f-4939-b3bc-b78c35eb8e76
+  layer_id: 1bd32015-7747-4f69-bc69-c0d73f52216f
+  source: 73e21392-20d4-4b04-9127-35dbe654ce08
+  target: 84df6f51-dfbc-46c2-9773-caa01f197f8a
