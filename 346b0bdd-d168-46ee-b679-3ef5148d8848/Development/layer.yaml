@@ -6,7 +6,8 @@ blocks:
 - auto_size: false
   canvas_id: 346b0bdd-d168-46ee-b679-3ef5148d8848
   compute_settings:
-    compute_environment_type: 1
+    compute_environment_type: !!python/object/apply:canvas_service.database.schemas.validation_config.ComputeEnvironmentType
+    - 1
   description: ''
   height: 500
   id: 73e21392-20d4-4b04-9127-35dbe654ce08
@@ -23,10 +24,11 @@ blocks:
 - auto_size: false
   canvas_id: 346b0bdd-d168-46ee-b679-3ef5148d8848
   compute_settings:
-    compute_environment_type: 1
+    compute_environment_type: !!python/object/apply:canvas_service.database.schemas.validation_config.ComputeEnvironmentType
+    - 1
   description: ''
   height: 500
-  id: 84df6f51-dfbc-46c2-9773-caa01f197f8a
+  id: 8160aa6d-2fe8-4961-8053-8711ecb9e1ba
   layer_id: 1bd32015-7747-4f69-bc69-c0d73f52216f
   name: '2'
   parent_id: null
@@ -39,7 +41,7 @@ blocks:
   y: 150
 edges:
 - canvas_id: 346b0bdd-d168-46ee-b679-3ef5148d8848
-  id: 2068b632-1d7f-4939-b3bc-b78c35eb8e76
+  id: ef606314-b0b5-44b0-b70e-ff00d068a3bc
   layer_id: 1bd32015-7747-4f69-bc69-c0d73f52216f
   source: 73e21392-20d4-4b04-9127-35dbe654ce08
-  target: 84df6f51-dfbc-46c2-9773-caa01f197f8a
+  target: 8160aa6d-2fe8-4961-8053-8711ecb9e1ba
