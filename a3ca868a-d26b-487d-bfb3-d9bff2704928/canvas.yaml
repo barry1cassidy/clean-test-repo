@@ -1,0 +1,36 @@
+id: a3ca868a-d26b-487d-bfb3-d9bff2704928
+name: New Git Canvas
+project_id: 33626f4f-d88d-4459-aa59-ce2a0dffb053
+global_imports: []
+python_global_imports: ''
+r_global_imports: ''
+requirements: []
+linux_packages: []
+environment_variables: []
+is_public: false
+workspace_id: null
+layers:
+- blocks:
+  - auto_size: false
+    canvas_id: a3ca868a-d26b-487d-bfb3-d9bff2704928
+    compute_settings:
+      compute_environment_type: 1
+    description: ''
+    height: 500
+    id: d1fcfabd-f79b-4ee5-9aa7-70994185debe
+    layer_id: cd545c44-07e3-4042-b3a1-1f1c62c8c221
+    name: '1'
+    parent_id: null
+    properties: {}
+    status: 1
+    type: 1
+    variables: null
+    width: 800
+    x: 1350
+    y: 150
+  canvas_id: a3ca868a-d26b-487d-bfb3-d9bff2704928
+  edges: []
+  id: cd545c44-07e3-4042-b3a1-1f1c62c8c221
+  name: Development
+  type: 1
+assets: []
