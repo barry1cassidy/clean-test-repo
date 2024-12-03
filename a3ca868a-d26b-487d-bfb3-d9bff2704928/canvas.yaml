@@ -36,7 +36,7 @@ layers:
 - blocks:
   - auto_size: false
     canvas_id: a3ca868a-d26b-487d-bfb3-d9bff2704928
-    compute_settings: {}
+    compute_settings: null
     description: ''
     height: 500
     id: 6577237a-52d0-4e21-8800-bd722595deab
