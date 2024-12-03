@@ -1,0 +1,23 @@
+id: 98c64946-c589-4f36-a6bc-fd531cc1363b
+name: Development
+type: 1
+canvas_id: db45a011-661a-4fd7-bf46-9dd0d089f08d
+blocks:
+- auto_size: false
+  canvas_id: db45a011-661a-4fd7-bf46-9dd0d089f08d
+  compute_settings:
+    compute_environment_type: 1
+  description: ''
+  height: 500
+  id: 5aed14c6-6c8e-4eaf-9b72-8166f485f63a
+  layer_id: 98c64946-c589-4f36-a6bc-fd531cc1363b
+  name: '1'
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: 1312
+  y: 144
+edges: []
