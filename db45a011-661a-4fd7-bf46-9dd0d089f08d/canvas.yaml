@@ -26,15 +26,15 @@ layers:
     type: 1
     variables: null
     width: 800
-    x: 1312
-    y: 144
+    x: 1222
+    y: 102
   - auto_size: false
     canvas_id: db45a011-661a-4fd7-bf46-9dd0d089f08d
     compute_settings:
       compute_environment_type: 1
     description: ''
     height: 500
-    id: 5f4c0106-547d-4346-88f2-13595acc9709
+    id: 69252be9-6e6a-43d2-bbf2-095f3c2ad118
     layer_id: 98c64946-c589-4f36-a6bc-fd531cc1363b
     name: '2'
     parent_id: null
@@ -43,8 +43,25 @@ layers:
     type: 1
     variables: null
     width: 800
-    x: 2290
-    y: 226
+    x: 2172
+    y: 102
+  - auto_size: false
+    canvas_id: db45a011-661a-4fd7-bf46-9dd0d089f08d
+    compute_settings:
+      compute_environment_type: 1
+    description: ''
+    height: 500
+    id: f33a98cc-4222-4093-b782-7f9033da2e83
+    layer_id: 98c64946-c589-4f36-a6bc-fd531cc1363b
+    name: '3'
+    parent_id: null
+    properties: {}
+    status: 1
+    type: 1
+    variables: null
+    width: 800
+    x: 1653
+    y: 752
   canvas_id: db45a011-661a-4fd7-bf46-9dd0d089f08d
   edges: []
   id: 98c64946-c589-4f36-a6bc-fd531cc1363b
