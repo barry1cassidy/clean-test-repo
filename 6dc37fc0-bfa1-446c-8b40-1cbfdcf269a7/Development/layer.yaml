@@ -1,0 +1,40 @@
+id: fbb7cd08-e16d-4462-bd22-e114ad1e46f7
+name: Development
+type: 1
+canvas_id: 6dc37fc0-bfa1-446c-8b40-1cbfdcf269a7
+blocks:
+- auto_size: false
+  canvas_id: 6dc37fc0-bfa1-446c-8b40-1cbfdcf269a7
+  compute_settings:
+    compute_environment_type: 1
+  description: ''
+  height: 1000
+  id: 3c0975ca-14f2-4bfc-94a7-abfc08ff69f6
+  layer_id: fbb7cd08-e16d-4462-bd22-e114ad1e46f7
+  name: '1'
+  parent_id: null
+  properties: {}
+  status: 3
+  type: 1
+  variables: null
+  width: 1600
+  x: 475
+  y: 430
+- auto_size: false
+  canvas_id: 6dc37fc0-bfa1-446c-8b40-1cbfdcf269a7
+  compute_settings:
+    compute_environment_type: 1
+  description: ''
+  height: 1000
+  id: 93fc0aa9-030f-43a0-bfc1-a43eadf36451
+  layer_id: fbb7cd08-e16d-4462-bd22-e114ad1e46f7
+  name: New Block
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 3288
+  y: 872
+edges: []

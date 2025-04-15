@@ -1,0 +1,28 @@
+id: 50ca1da1-86d6-450c-94ab-e3a33e918c5c
+name: Job
+type: 5
+canvas_id: 6dc37fc0-bfa1-446c-8b40-1cbfdcf269a7
+blocks:
+- auto_size: false
+  canvas_id: 6dc37fc0-bfa1-446c-8b40-1cbfdcf269a7
+  compute_settings:
+    compute_environment_type: 1
+  description: ''
+  height: 1000
+  id: 7d91f25c-31fb-4e4b-9b15-4fde0c04ea5c
+  layer_id: 50ca1da1-86d6-450c-94ab-e3a33e918c5c
+  name: '2'
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 2951
+  y: 344
+edges:
+- canvas_id: 6dc37fc0-bfa1-446c-8b40-1cbfdcf269a7
+  id: aed04368-1955-42c0-a119-5f15a6697a1c
+  layer_id: 50ca1da1-86d6-450c-94ab-e3a33e918c5c
+  source: 176ac7d7-a8e5-4be8-9742-cbf98dde8fe9
+  target: 7d91f25c-31fb-4e4b-9b15-4fde0c04ea5c
