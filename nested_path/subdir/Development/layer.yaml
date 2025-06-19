@@ -22,4 +22,23 @@ blocks:
   width: 1600
   x: 1636
   y: 289
+- auto_size: false
+  canvas_id: d49c44a9-7188-492d-aa70-6cacf37fae08
+  compute_settings:
+    compute_environment_type: 1
+    executor_id: null
+    executor_image_id: null
+  description: ''
+  height: 1000
+  id: e3fc7191-b83a-415a-9ea6-5848a2db05f9
+  layer_id: 391c43a0-c529-4b0e-ad5c-4c0a76394632
+  name: '2'
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 3236
+  y: 1439
 edges: []
